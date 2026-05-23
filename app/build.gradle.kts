@@ -37,12 +37,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     
-    // FFmpeg (gratuit)
     implementation("com.arthenica:mobile-ffmpeg-full:4.4.LTS")
-    
-    // Glide pour images
     implementation("com.github.bumptech.glide:glide:4.16.0")
-    
-    // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 }
